@@ -1,5 +1,5 @@
 # R-for-Psychological-Science
-R syntax often used to analyze psychology experiments + survey data
+R syntax organized: for analyzing psychological experiments + survey data
 
 ## The repository includes:
 1. [**Logistic Regression.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Logistic%20Regression.R): <br />
