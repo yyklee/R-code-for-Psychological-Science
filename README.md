@@ -14,7 +14,7 @@ R syntax organized: for analyzing psychological experiments + survey data
 4. [**Cross-classified Multilevel Modeling.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Cross%20classified%20multilevel%20modeling.R): R Syntax for Cross-classified MLM<br />
       Crossing two or more higher level classifications with one another _(e.g., individuals in Region and Company)_<br />**-->To understand this model:**  I found [this paper](https://doi.apa.org/doiLanding?doi=10.1037%2Fpspi0000160) helpful. Tools for calculating ICCs in cross-classified model can be found in this [lab page](http://hehmanlab.org/toolbox).
       
-5. [**Path Analysis.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Cross%20classified%20multilevel%20modeling.R): R Syntax for Path Analysis <br />
+5. [**PathAnalysis.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/PathAnalysis.R): R Syntax for Path Analysis <br />
       Use Repeated Measures ANOVA when you condition overlap within participants _(Between * Within). 
 
 6. [**Repeated Measures ANOVA.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Cross%20classified%20multilevel%20modeling.R): R Syntax for Repeated Measured ANOVA ezANOVA package <br />
