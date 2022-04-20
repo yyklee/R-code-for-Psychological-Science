@@ -3,7 +3,7 @@ R syntax organized: for analyzing psychological experiments + survey data
 
 ## The repository includes:
 1. [**Logistic Regression.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Logistic%20Regression.R): R Syntax for Logistic Regression <br />
-      Use this modeling when your dependent variable is **discrete** _(e.g., yes/no, go/no-go)_. <br /><br /> **-->For more info:** look at my summary of [_'Logistic regression and Extensions'_](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Logistic%20Regression%20Review.pdf), which includes how to check data structure, how to perform sample pre-analysis and an overview of two papers that used logistic regression.
+      Use this modeling when your dependent variable is **discrete** _(e.g., yes/no, go/no-go)_. <br /><br /> **-->For more info:** look at my summary of [_'Logistic regression and Extensions'_](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Logistic%20Regression%20Review.pdf), which includes how to check data structure, how to perform sample pre-analysis and an overview of two research papers that used logistic regression.
 
 2. [**Poisson Regression.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Poisson%20Regression.R): R Syntax for Poisson Regression<br />
       Poisson regression is used to predict a dependent variable that consists of "count data" given one or more independent variables. The variable we want to predict is called the dependent variable (or sometimes the response, outcome, target or criterion variable).
