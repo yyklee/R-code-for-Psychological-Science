@@ -17,7 +17,7 @@ R syntax organized: for analyzing psychological experiments + survey data
 5. [**PathAnalysis.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/PathAnalysis.R): R Syntax for Path Analysis <br />
       Use Repeated Measures ANOVA when you condition overlap within participants _(Between * Within). 
 
-6. [**Repeated Measures ANOVA.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Cross%20classified%20multilevel%20modeling.R): R Syntax for Repeated Measures ANOVA <br />
+6. [**Repeated Measures ANOVA.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Repeated%20measures%20ANOVA.R): R Syntax for Repeated Measures ANOVA <br />
       Use Repeated Measures ANOVA when you condition overlap within participants _(Between * Within). 
       
 *Extra resource for analyzing experimental data: [Datanovia](https://www.datanovia.com/en/)*
