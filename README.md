@@ -12,8 +12,6 @@ R syntax organized: for analyzing psychological experiments + survey data
       Use this modeling when your data structure includes more than two level; nested structure (e.g., individuals nested in country, daily measures nested in individuals). <br /> **-->For more info:**  look at my review paper of [_'Multilevel regression'_](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Multilevel%20Modeling_research_review.pdf), which analyzes two papers that used multilevel modeling. 
 
 4. [**Cross classified multilevel modeling.R**](https://github.com/yyklee/R-for-Psychological-Science/blob/main/Cross%20classified%20multilevel%20modeling.R): R Syntax for Cross-classified MLM<br />
-      Extension of standard multilevel modeling for non-hierarchical data (e.g., )
-<br />
-**-->To understand this model:**  I found [this paper](https://doi.apa.org/doiLanding?doi=10.1037%2Fpspi0000160) helpful. Tools for calculating ICCs in cross-classified model can be found in this [lab page](http://hehmanlab.org/toolbox).
+      Crossing two or more higher level classifications with one another (e.g., individuals in Region and Company)<br />**-->To understand this model:**  I found [this paper](https://doi.apa.org/doiLanding?doi=10.1037%2Fpspi0000160) helpful. Tools for calculating ICCs in cross-classified model can be found in this [lab page](http://hehmanlab.org/toolbox).
 
 *Extra resource for analyzing experimental data: [Datanovia](https://www.datanovia.com/en/)*
